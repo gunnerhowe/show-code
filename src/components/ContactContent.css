@@ -1,0 +1,56 @@
+#myBar1 {
+    width: 50%;
+    height: 50px;
+    background-image: linear-gradient(to top, #b721ff 0%, #ff8177 100%);
+    animation: fade-in 5s ease-in infinite;
+    text-align: center; 
+    line-height: 50px;
+    color: #141414;
+    font-size: 2rem;
+    border-radius: 25px;
+  }
+
+
+  #myBar2 {
+    width: 40%;
+    height: 50px;
+    background-image: linear-gradient(to top, #b721ff 0%, #ff8177 100%);
+    text-align: center; /* To center it horizontally (if you want) */
+    line-height: 50px; /* To center it vertically */
+    color: #141414;
+    font-size: 2rem;
+    border-radius: 25px;
+  }
+
+  #myBar3 {
+    width: 40%;
+    height: 50px;
+    background-image: linear-gradient(to top, #b721ff 0%, #ff8177 100%);
+    text-align: center; /* To center it horizontally (if you want) */
+    line-height: 50px; /* To center it vertically */
+    color: #141414;
+    font-size: 2rem;
+    border-radius: 25px;
+  }
+
+  #myBar4 {
+    width: 60%;
+    height: 50px;
+    background-image: linear-gradient(to top, #b721ff 0%, #ff8177 100%);
+    text-align: center; /* To center it horizontally (if you want) */
+    line-height: 50px; /* To center it vertically */
+    color: #141414;
+    font-size: 2rem;
+    border-radius: 25px;
+  }
+
+  #myBar5 {
+    width: 60%;
+    height: 50px;
+    background-image: linear-gradient(to top, #b721ff 0%, #ff8177 100%);
+    text-align: center; /* To center it horizontally (if you want) */
+    line-height: 50px; /* To center it vertically */
+    color: #141414;
+    font-size: 2rem;
+    border-radius: 25px;
+  }
